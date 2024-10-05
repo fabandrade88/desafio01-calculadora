@@ -9,4 +9,8 @@ font-size:24px;
 font-weight: 600;
 margin: 2px;
 flex: 1;
+
+&:hover {
+    opacity: 0.6;
+}
 `;
